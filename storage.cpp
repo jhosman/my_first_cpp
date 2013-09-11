@@ -18,6 +18,9 @@ int main()
 	cout << "\nint           " << sizeof(int);
 	cout << "\nchar          " << sizeof(char);
 	cout << "\nbool          " << sizeof(bool);
+	cout << "\nfloat         " << sizeof(float);
+	cout << "\ndouble        " << sizeof(double);
+	cout << "\nlong double   " << sizeof(long double);
 	cout << '\n';
 
     system("Pause");

@@ -1,4 +1,4 @@
 my_first_cpp
 ============
 
-Practice exercises in Intro to C++ class
+Practice exercises from my Intro to C++ class. 

@@ -17,6 +17,5 @@ int main()
     cout << "The total of " << num1 << " plus " << num2 << " is " << total << endl;
     cout << "The average of " << num1 << " and " << num2 << " is " << average << endl;
     
-    system("Pause");
     return 0;
 }

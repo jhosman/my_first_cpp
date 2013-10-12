@@ -19,7 +19,6 @@ int main()
     cout << "The total is " << total << endl;
     cout << "The average is " << average << endl;
     
-    system("Pause");
     return 0;
 }
     

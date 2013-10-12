@@ -22,6 +22,5 @@ int main ()
         else if (angle == 90)
           cout << "It's a right angle!";
         
-        system("Pause");
         return 0;
     } 

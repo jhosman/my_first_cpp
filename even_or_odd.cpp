@@ -21,6 +21,5 @@ int main ()
         else 
           cout << "The number " << num1 << " is even.";
         
-        system("Pause");
         return 0;
     } 

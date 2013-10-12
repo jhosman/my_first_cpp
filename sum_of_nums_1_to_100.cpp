@@ -17,7 +17,6 @@ int main()
     sum = (n / 2) * (2 * a + (n - 1) * d);
     cout << "The numbers 1 through 100 added together equal " << sum;
     
-    system("Pause");
     return 0;
 }
     

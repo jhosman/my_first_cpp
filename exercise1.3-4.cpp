@@ -12,6 +12,5 @@ int main()
   cout << "\nT2401\t\t$65.40";
   cout << "\n4482\t\t$36.99";
   
-  system("Pause");
   return 0;
 }

@@ -9,6 +9,5 @@ int main()
 {
  cout << "Hello universe!";
  
- system("Pause");  // Stops the window from closing immediately, so I can view program output
  return 0;   
 }

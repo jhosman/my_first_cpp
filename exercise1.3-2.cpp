@@ -8,6 +8,5 @@ int main()
 {
   cout << "Jessica Hosman\n123 Main Street\nCity, State 01234";
   
-  system("Pause");
   return 0;
 }

@@ -12,6 +12,5 @@ int main()
     cout << 7.1 * 8.3 - 2.2 << endl;
     cout << 3.2 / (6.1 * 5) << endl;
     
-    system("Pause");
     return 0;
 }

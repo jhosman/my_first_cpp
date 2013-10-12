@@ -30,6 +30,5 @@ int main ()
           << place << " letter of the alphabet.";
           }
         
-        system("Pause");
         return 0;
     } 

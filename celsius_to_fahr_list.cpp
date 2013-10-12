@@ -8,9 +8,9 @@
 using namespace std;
 
 int main() {
-	const int MAXCELSIUS = 50;
-	const int STARTVAL = 5;
-	const int STEPSIZE = 5;
+	const int MAXCELSIUS = 60;
+	const int STARTVAL = -10;
+	const int STEPSIZE = 10;
 	int celsius;
 	double fahren;
 	

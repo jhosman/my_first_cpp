@@ -16,6 +16,5 @@ int main()
     average = total / 2.0;
     cout << "The average of " << num1 << " and " << num2 << " is " << average << endl;
     
-    system("Pause");
     return 0;
 }

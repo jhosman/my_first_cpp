@@ -24,7 +24,6 @@ int main()
          << setprecision(2) 
          << slope << endl;
     
-    system("Pause");
     return 0;
 }
     

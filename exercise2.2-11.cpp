@@ -12,6 +12,5 @@ int main()
     cout << 15 % 4 << endl;
     cout << 5 * 3 - (6 * 4) << endl;
     
-    system("Pause");
     return 0;
 }

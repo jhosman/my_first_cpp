@@ -16,6 +16,5 @@ int main()
          << perimeter 
          << "." << endl;
     
-    system("Pause");
     return 0;
 } 

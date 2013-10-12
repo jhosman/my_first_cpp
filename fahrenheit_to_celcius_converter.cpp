@@ -22,7 +22,6 @@ int main()
     celcius = FACTOR * (fahren - 32.0);
     cout << "The equivalent in celcius is: " << celcius << endl;
     
-    system("Pause");
     return 0;
 }
     

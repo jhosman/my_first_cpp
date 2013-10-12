@@ -18,7 +18,6 @@ int main()
     squareRoot = sqrt(number);
     cout << "The square root of " << number << "is " << squareRoot << endl;
     
-    system("Pause");
     return 0;
 }
     

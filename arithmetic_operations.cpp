@@ -17,6 +17,5 @@ main()
  cout << "\nThe sum of 12.2 and 15.754 is " 
       << (12.2 + 15.754);
  
- system("Pause");
  return 0;      
 }

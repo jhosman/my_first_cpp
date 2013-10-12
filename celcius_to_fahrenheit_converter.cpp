@@ -20,7 +20,6 @@ int main()
     fahr = (9.0 / 5.0) * celcius + 32.0;
     cout << "The temperature in fahrenheit is " << fahr << endl;
     
-    system("Pause");
     return 0;
 }
     

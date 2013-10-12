@@ -11,6 +11,5 @@ int main()
   cout << "\nI really, really like these things,";
   cout << "\nOh joy, Oh joy for me!";
   
-  system("Pause");
   return 0;    
 }

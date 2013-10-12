@@ -64,6 +64,5 @@ int main ()
         << "The weight class is " << weight << ".\n" 
         << "The registration fee is $" << fee << endl;
         
-        system("Pause");
         return 0;
     } 

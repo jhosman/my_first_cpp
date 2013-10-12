@@ -23,6 +23,5 @@ int main()
 {
  cout << "Hello World!"; // cout sends data to the standard output display device (usually the screen)
  
- system("Pause"); // Stops program from closing window, so I can view program output
  return 0;   
 } // Curly brace closes out the function's statement

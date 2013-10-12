@@ -8,6 +8,5 @@ int main()
   cout << "\nThe remainder of 9 divided by 4 is " << 9 % 4;
   cout << "\nThe remainder of 17 divided by 3 is " << 17 % 3;
   
-  system("Pause");
   return 0;      
 }

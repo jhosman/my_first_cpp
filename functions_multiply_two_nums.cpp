@@ -1,9 +1,8 @@
 /*
-  repetition
+  Exercise 6.1-4 in the textbook
 */
 
 #include <iostream>
-#include <cmath>
 using namespace std;
 void mult(double, double);  // List data types in the order each input will be received
 

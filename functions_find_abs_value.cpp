@@ -22,7 +22,7 @@ int main ()
 void findAbs(int x)  // List data type and param name for each parameter passed from main(), in the order they were passed
                      // These params don't have to keep the same name as in main(); they just have to keep the same order
 {
-	int absolute;
+	int absolute;  // Don't need to give data types for input params here, since they're given in function header
 	
 	absolute = abs(x);
 	cout << "Tha absolute value of " << x << " is " << absolute << endl;

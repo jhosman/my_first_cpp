@@ -2,7 +2,7 @@
   practice_exercise_3.1.cpp
 
   This program asks the user to enter prices and then
-  adds them together.
+  adds them together
 */
 
 #include <iostream>

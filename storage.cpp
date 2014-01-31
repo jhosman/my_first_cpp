@@ -6,8 +6,6 @@
  *
  *  Created on: Sep 9, 2013
  *  Author: jhosman
- * 
- *
  */
 
 #include <iostream>

@@ -5,7 +5,7 @@
  * and how much storage it provides for each data type given.
  *
  *  Created on: Sep 9, 2013
- *      Author: jhosman
+ *  Author: jhosman
  */
 
 #include <iostream>

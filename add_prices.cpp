@@ -12,7 +12,7 @@ int main()
 {
     double price1, price2, price3, price4, total;
 
-    cout << "Please enter price: " << endl;
+    cout << "Please enter price transition: " << endl;
     cin >> price1;
     cout << "Please enter a second price: " << endl;
     cin >> price2;
@@ -20,6 +20,7 @@ int main()
     cin >> price3;
     cout << "Please enter a fourth price: " << endl;
     cin >> price4;
+    $transition
 
     total = price1 + price2 + price3 + price4;
     cout << "\nThe total price is " << total;
